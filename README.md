@@ -6,7 +6,7 @@ Spotify Bot for artificals streams
 
 ```
 {
-  "UpgradesPath": null,
+  "UpgradesPath": C:\\Users\\user\\accounts.txt,
   "ProxyPathFree": "C:\\Users\\user\\proxies.txt",
   "AlbumPath": "C:\\Users\\user\\albums.txt",
   "Driver": 0,
