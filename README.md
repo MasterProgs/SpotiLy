@@ -54,5 +54,5 @@ For Example :
 ```
 myname.com (your domain name)
 127.0.0.1 (your server ip)
-______@myname.com, all e-mails will be stored on the mails folder
+xxxxxxxxxx@myname.com, all e-mails will be stored on the mails folder
 ```
